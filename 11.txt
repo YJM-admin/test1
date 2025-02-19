@@ -1,0 +1,10 @@
+ALSA lib ../../alsa-lib-1.2.4/src/confmisc.c:767:(parse_card) cannot find card '0'
+ALSA lib ../../alsa-lib-1.2.4/src/conf.c:4745:(_snd_config_evaluate) function snd_func_card_driver returned error: No such file or directory
+ALSA lib ../../alsa-lib-1.2.4/src/confmisc.c:392:(snd_func_concat) error evaluating strings
+ALSA lib ../../alsa-lib-1.2.4/src/conf.c:4745:(_snd_config_evaluate) function snd_func_concat returned error: No such file or directory
+ALSA lib ../../alsa-lib-1.2.4/src/confmisc.c:1246:(snd_func_refer) error evaluating name
+ALSA lib ../../alsa-lib-1.2.4/src/conf.c:4745:(_snd_config_evaluate) function snd_func_refer returned error: No such file or directory
+ALSA lib ../../alsa-lib-1.2.4/src/conf.c:5233:(snd_config_expand) Evaluate error: No such file or directory
+ALSA lib ../../../alsa-lib-1.2.4/src/pcm/pcm.c:2660:(snd_pcm_open_noupdate) Unknown PCM default
+arecord: main:830: audio open error: No such file or directory
+
